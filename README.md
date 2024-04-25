@@ -1,0 +1,1 @@
+This is a modern slider concept, using javascript and css. The project is used to demonstrate an idea for kota store owners. I intendend to find a solution to help local kota businesses present their products in a sleek modern look
